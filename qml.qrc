@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>changetheme.png</file>
+        <file>hamberger.png</file>
+        <file>help.png</file>
+        <file>marker.png</file>
+        <file>route.png</file>
+        <file>settings.png</file>
+        <file>ship.png</file>
+    </qresource>
+</RCC>
